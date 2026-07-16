@@ -1,0 +1,11 @@
+https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt
+http://127.0.0.1:9978/file/TVBox/bili_cookie.txt
+https://cnb.cool/fish2018/xs/-/git/raw/main/XBPQ/小镇影视.json
+https://cnb.cool/fish2018/xs/-/git/raw/main/XBPQ/面包影视.json
+https://cnb.cool/fish2018/xs/-/git/raw/main/XBPQ/永乐影视.json
+https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt
+http://iptv.4666888.xyz/FYTV.txt
+https://files.catbox.moe/h3mb5a.txt
+https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt
+https://t.freetv.fun/m3u/playlist_all.txt
+https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
